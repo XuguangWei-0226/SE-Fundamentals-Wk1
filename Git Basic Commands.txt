@@ -17,3 +17,7 @@ So still should git add -A
 
 6. Push local to remote(Github): git push origin master
 --> git remote v
+
+7. Download: clone URL
+-->create a new working directory in current working repository(in the .git hidden folder)
+-->git clone URL
