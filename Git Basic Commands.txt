@@ -11,3 +11,9 @@ Like a snapshot of files at a particular moment
 4. Commit(save) all changes in the working directory to the local repository
 (shortcut): git commit -a -m "(name)" (However new added file still not on track)
 So still should git add -A
+
+5. Github: create new remote repository
+--> add connection between local and remote(git remote add origin http://)
+
+6. Push local to remote(Github): git push origin master
+--> git remote v
