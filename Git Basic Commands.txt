@@ -5,5 +5,8 @@ Git Commands
 2. Add everything to the stage(Cache of files to be "committed" <recorded in the Git>)
 : git add -A
 
-3. Save to local repository: git commit (to the hidden .git folder): git -m "(Name)"
+3. Save(Commit) to local repository: git commit (to the hidden .git folder): git -m "(Name)"
 Like a snapshot of files at a particular moment
+
+4. Commit(save) all changes in the working directory to the local repository
+(shortcut): git commit -a -m "(name)"
